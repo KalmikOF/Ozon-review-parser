@@ -3,7 +3,6 @@
 Профессиональный парсер отзывов с медиа-вложениями с маркетплейса Ozon.
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Selenium](https://img.shields.io/badge/Selenium-Wire-orange.svg)](https://github.com/wkeeling/selenium-wire)
 
 ---
