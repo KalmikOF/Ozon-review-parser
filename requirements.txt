@@ -1,0 +1,19 @@
+# Ozon Review Parser - Dependencies
+# Author: https://github.com/KalmikOF
+
+# Core dependencies
+setuptools==69.5.1
+blinker==1.7.0
+selenium-wire==5.1.0
+selenium==4.15.2
+
+# Supporting libraries
+certifi>=2023.0.0
+h2>=4.1.0
+hyperframe>=6.0.1
+kaitaistruct>=0.10
+pyasn1>=0.4.8
+pyOpenSSL>=23.0.0
+pyparsing>=3.0.9
+wsproto>=1.2.0
+zstandard>=0.21.0
